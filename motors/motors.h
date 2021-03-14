@@ -1,6 +1,6 @@
 #pragma once
 
 #include "vex.h"
-#include "Library/auto.h"
+#include "vexBase/auto.h"
 
 void bye();
