@@ -4,3 +4,5 @@
 #include "vexBase/auto.h"
 
 void bye();
+
+void moveMotors();
