@@ -3,3 +3,5 @@
 #include "vex.h"
 
 void hello();
+
+void doAFlip();
