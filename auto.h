@@ -2,6 +2,10 @@
 
 #include "vex.h"
 
-void hello();
+namespace vexBase {
 
-void doAFlip();
+	void hello();
+
+	void doAFlip();
+
+};

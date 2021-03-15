@@ -1,11 +1,15 @@
 #include "motors.h"
 
-void bye()
-{
-  hello();
-}
+namespace vexBase {
 
-void moveMotors()
-{
-  printf("moving motor");
-}
+  void bye()
+  {
+    hello();
+  }
+
+  void moveMotors()
+  {
+    printf("moving motor");
+  }
+
+};

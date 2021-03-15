@@ -3,6 +3,10 @@
 #include "vex.h"
 #include "vexBase/auto.h"
 
-void bye();
+namespace vexBase {
 
-void moveMotors();
+	void bye();
+
+	void moveMotors();
+
+};
